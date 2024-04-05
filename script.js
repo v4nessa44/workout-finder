@@ -1,5 +1,5 @@
 "use strict"
-const apiKey = "06TOYDrTEoKWkciSf478kg==DZR4IF38hH4kqVTg";
+const apiKey = "";
 let btn = document.querySelector("button");
 let inputEl = document.querySelector("input");
 let card = document.querySelector(".card");
